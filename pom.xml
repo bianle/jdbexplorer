@@ -223,7 +223,7 @@
 		  
     <plugin> 
      <artifactId>maven-compiler-plugin</artifactId> 
-     <version>RELEASE</version> 
+     <version>1.5</version> 
      <configuration> 
          <encoding>UTF-8</encoding> 
      </configuration> 
@@ -246,7 +246,7 @@
  -->
     <plugin> 
        <artifactId>maven-resources-plugin</artifactId> 
-       <version>RELEASE</version> 
+       <version>1.5</version> 
        <configuration> 
            <encoding>UTF-8</encoding> 
        </configuration> 
