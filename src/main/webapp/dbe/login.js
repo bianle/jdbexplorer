@@ -172,7 +172,7 @@ DBE.LoginWindow = function(config) {
 				id : 'fldDburl',
 				fieldLabel : '     URL',
 				allowBlank : false,
-				readOnly : true,
+				readOnly : false,
 				value : 'jdbc:driver:type://<server>',
 				name : 'url'
 			}]
